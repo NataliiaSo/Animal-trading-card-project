@@ -7,7 +7,7 @@ This repository contains a simple project to create a card that displays informa
 - **Card Layout**: The card displays an animal’s name, image, interesting facts, and a brief description.
 - **Fixed Width**: The card has a fixed width of 300px (plus padding on both sides) and does not expand with the browser window.
 - **Borders and Spacing**: Borders surround the animal’s name, image, and information sections. Appropriate spacing is applied to separate these elements.
-- **Custom Styling**: The card's background colors and border-radius can be customized.
+- **Custom Styling**: The card's background colors and border radius can be customized.
 - **Text Styling**: 
   - The interesting fact is *italicized*.
   - The labels for list items are **bolded**.
